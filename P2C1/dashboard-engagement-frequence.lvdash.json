@@ -1,0 +1,511 @@
+{
+  "datasets": [
+    {
+      "name": "ds_genres",
+      "displayName": "freq_top_genres",
+      "queryLines": [
+        "-- Top genres, au grain jour x offre x genre pour que les filtres agissent\n",
+        "SELECT DATE(e.horodatage) AS jour, a.offre, e.genre, COUNT(*) AS nb_ecoutes\n",
+        "FROM frequence.socle.ecoutes_enrichies e\n",
+        "JOIN frequence.socle.abonnements a\n",
+        "  ON  e.id_utilisateur = a.id_utilisateur\n",
+        "  AND e.horodatage >= a.date_debut\n",
+        "  AND e.horodatage <  COALESCE(a.date_fin, CURRENT_TIMESTAMP())\n",
+        "GROUP BY ALL"
+      ]
+    },
+    {
+      "name": "ds_heures",
+      "displayName": "freq_heures_ecoute",
+      "queryLines": [
+        "-- Heures d'écoute, au grain jour x heure x offre\n",
+        "SELECT DATE(e.horodatage) AS jour, HOUR(e.horodatage) AS heure, a.offre, COUNT(*) AS nb_ecoutes\n",
+        "FROM frequence.socle.ecoutes e\n",
+        "JOIN frequence.socle.abonnements a\n",
+        "  ON  e.id_utilisateur = a.id_utilisateur\n",
+        "  AND e.horodatage >= a.date_debut\n",
+        "  AND e.horodatage <  COALESCE(a.date_fin, CURRENT_TIMESTAMP())\n",
+        "GROUP BY ALL"
+      ]
+    },
+    {
+      "name": "ds_ecart",
+      "displayName": "ecart_offres",
+      "queryLines": [
+        "-- Écart entre offres (jointure datée de P1C4), au grain jour x offre x abonné\n",
+        "SELECT DATE(e.horodatage) AS jour, a.offre, e.id_utilisateur,\n",
+        "       SUM(e.duree_ecoutee) AS duree_ecoutee, COUNT(*) AS nb_ecoutes\n",
+        "FROM frequence.socle.ecoutes e\n",
+        "JOIN frequence.socle.abonnements a\n",
+        "  ON  e.id_utilisateur = a.id_utilisateur\n",
+        "  AND e.horodatage >= a.date_debut\n",
+        "  AND e.horodatage <  COALESCE(a.date_fin, CURRENT_TIMESTAMP())\n",
+        "GROUP BY ALL"
+      ],
+      "columns": [
+        {
+          "displayName": "heures_gratuit",
+          "description": "Heures d'écoute par abonné gratuit ayant écouté",
+          "expression": "ROUND(SUM(CASE WHEN offre = 'gratuit' THEN duree_ecoutee END) / 3600.0 / COUNT(DISTINCT CASE WHEN offre = 'gratuit' THEN id_utilisateur END), 1)"
+        },
+        {
+          "displayName": "heures_premium",
+          "description": "Heures d'écoute par abonné premium ayant écouté",
+          "expression": "ROUND(SUM(CASE WHEN offre = 'premium' THEN duree_ecoutee END) / 3600.0 / COUNT(DISTINCT CASE WHEN offre = 'premium' THEN id_utilisateur END), 1)"
+        },
+        {
+          "displayName": "minutes_par_abonne",
+          "description": "Durée totale écoutée / abonnés distincts ayant écouté, en minutes",
+          "expression": "ROUND(SUM(duree_ecoutee) / 60.0 / COUNT(DISTINCT id_utilisateur), 0)"
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "name": "engagement",
+      "displayName": "Engagement",
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layout": [
+        {
+          "widget": {
+            "name": "titre",
+            "multilineTextboxSpec": {
+              "lines": [
+                "## Engagement Fréquence\n",
+                "Écoutes et usage par offre. Filtrez l'offre et la période en haut de page."
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 6,
+            "height": 2
+          }
+        },
+        {
+          "widget": {
+            "name": "filtre_offre",
+            "queries": [
+              {
+                "name": "f_offre_ds_genres",
+                "query": {
+                  "datasetName": "ds_genres",
+                  "fields": [
+                    {
+                      "name": "offre",
+                      "expression": "`offre`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "f_offre_ds_heures",
+                "query": {
+                  "datasetName": "ds_heures",
+                  "fields": [
+                    {
+                      "name": "offre",
+                      "expression": "`offre`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "f_offre_ds_ecart",
+                "query": {
+                  "datasetName": "ds_ecart",
+                  "fields": [
+                    {
+                      "name": "offre",
+                      "expression": "`offre`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "filter-single-select",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "offre",
+                    "displayName": "offre",
+                    "queryName": "f_offre_ds_genres"
+                  },
+                  {
+                    "fieldName": "offre",
+                    "displayName": "offre",
+                    "queryName": "f_offre_ds_heures"
+                  },
+                  {
+                    "fieldName": "offre",
+                    "displayName": "offre",
+                    "queryName": "f_offre_ds_ecart"
+                  }
+                ]
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Offre"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 2,
+            "width": 2,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "filtre_periode",
+            "queries": [
+              {
+                "name": "f_periode_ds_genres",
+                "query": {
+                  "datasetName": "ds_genres",
+                  "fields": [
+                    {
+                      "name": "jour",
+                      "expression": "`jour`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "f_periode_ds_heures",
+                "query": {
+                  "datasetName": "ds_heures",
+                  "fields": [
+                    {
+                      "name": "jour",
+                      "expression": "`jour`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              },
+              {
+                "name": "f_periode_ds_ecart",
+                "query": {
+                  "datasetName": "ds_ecart",
+                  "fields": [
+                    {
+                      "name": "jour",
+                      "expression": "`jour`"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "filter-date-range-picker",
+              "encodings": {
+                "fields": [
+                  {
+                    "fieldName": "jour",
+                    "displayName": "jour",
+                    "queryName": "f_periode_ds_genres"
+                  },
+                  {
+                    "fieldName": "jour",
+                    "displayName": "jour",
+                    "queryName": "f_periode_ds_heures"
+                  },
+                  {
+                    "fieldName": "jour",
+                    "displayName": "jour",
+                    "queryName": "f_periode_ds_ecart"
+                  }
+                ]
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Période"
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 2,
+            "width": 2,
+            "height": 1
+          }
+        },
+        {
+          "widget": {
+            "name": "compteur_gratuit",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ds_ecart",
+                  "fields": [
+                    {
+                      "name": "measure(heures_gratuit)",
+                      "expression": "MEASURE(`heures_gratuit`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "data": {
+                "queryName": "main_query"
+              },
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(heures_gratuit)",
+                  "displayName": "Heures par abonné (gratuit)"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Heures d'écoute par abonné · gratuit",
+                "showDescription": true,
+                "description": "Sur la période filtrée, jointure datée"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 3,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "compteur_premium",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ds_ecart",
+                  "fields": [
+                    {
+                      "name": "measure(heures_premium)",
+                      "expression": "MEASURE(`heures_premium`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "widgetType": "counter",
+              "data": {
+                "queryName": "main_query"
+              },
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(heures_premium)",
+                  "displayName": "Heures par abonné (premium)"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Heures d'écoute par abonné · premium",
+                "showDescription": true,
+                "description": "Sur la période filtrée, jointure datée"
+              }
+            }
+          },
+          "position": {
+            "x": 2,
+            "y": 3,
+            "width": 2,
+            "height": 3
+          }
+        },
+        {
+          "widget": {
+            "name": "barres_genres",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ds_genres",
+                  "fields": [
+                    {
+                      "name": "genre",
+                      "expression": "`genre`"
+                    },
+                    {
+                      "name": "sum(nb_ecoutes)",
+                      "expression": "SUM(`nb_ecoutes`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "sum(nb_ecoutes)",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Écoutes"
+                },
+                "y": {
+                  "fieldName": "genre",
+                  "scale": {
+                    "type": "categorical",
+                    "sort": {
+                      "by": "x-reversed"
+                    }
+                  },
+                  "displayName": "Genre"
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Écoutes par genre"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 6,
+            "width": 3,
+            "height": 8
+          }
+        },
+        {
+          "widget": {
+            "name": "courbe_heures",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ds_heures",
+                  "fields": [
+                    {
+                      "name": "heure",
+                      "expression": "`heure`"
+                    },
+                    {
+                      "name": "sum(nb_ecoutes)",
+                      "expression": "SUM(`nb_ecoutes`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "line",
+              "encodings": {
+                "x": {
+                  "fieldName": "heure",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Heure"
+                },
+                "y": {
+                  "fieldName": "sum(nb_ecoutes)",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Écoutes"
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Écoutes au fil de la journée"
+              }
+            }
+          },
+          "position": {
+            "x": 3,
+            "y": 6,
+            "width": 3,
+            "height": 8
+          }
+        },
+        {
+          "widget": {
+            "name": "minutes_par_abonne",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "ds_ecart",
+                  "fields": [
+                    {
+                      "name": "offre",
+                      "expression": "`offre`"
+                    },
+                    {
+                      "name": "measure(minutes_par_abonne)",
+                      "expression": "MEASURE(`minutes_par_abonne`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "offre",
+                  "scale": {
+                    "type": "categorical"
+                  },
+                  "displayName": "Offre"
+                },
+                "y": {
+                  "fieldName": "measure(minutes_par_abonne)",
+                  "scale": {
+                    "type": "quantitative"
+                  },
+                  "displayName": "Minutes par abonné"
+                },
+                "label": {
+                  "show": true
+                }
+              },
+              "frame": {
+                "showTitle": true,
+                "title": "Minutes d'écoute par abonné",
+                "showDescription": true,
+                "description": "Durée totale / abonnés distincts ayant écouté, par offre"
+              }
+            }
+          },
+          "position": {
+            "x": 4,
+            "y": 2,
+            "width": 2,
+            "height": 4
+          }
+        }
+      ]
+    }
+  ]
+}

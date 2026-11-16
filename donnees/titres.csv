@@ -1,0 +1,1223 @@
+id_titre,titre,artiste,genre,duree_secondes,annee_sortie
+1,Nuit parfaite,Noé Vega,Pop,187,2025
+2,Minuit lente,Malo Echo,Pop,229,2020
+3,Ivresse de rivage,Yanis Blanc,Pop,196,2014
+4,Distance de horizon,Orchestre Blancs,Pop,167,2016
+5,Été de orage,Lina Azur,Pop,200,2025
+6,Vertige nouvelle,Jade Néon,Pop,172,2024
+7,Carrousel parfaite,Alma Néon,Pop,198,2016
+8,Carrousel 21,Sacha Ferro,Pop,212,2025
+9,Tempête de cendre,Ines Sorel,Pop,220,2008
+10,Néon secrète,Trio Rivières,Pop,218,1991
+11,Saison infinie,Nina Onyx,Pop,222,2026
+12,Carrousel nouvelle,Malo Rivière,Pop,229,2024
+13,Mirage de pluie,Jade Néon,Pop,197,2018
+14,Cendre 92,Club Ferros,Pop,186,1982
+15,Cendre lointaine,Lou Rivière,Pop,224,2021
+16,Tempête infinie,Rose Kairo,Pop,154,2020
+17,Vertige 52,Lou Delta,Pop,207,1999
+18,Tempête perdue,Orchestre Néons,Pop,238,2004
+19,Vertige de satellite,Céleste Onyx,Pop,190,2008
+20,Pluie de cendre,Noé Vega,Pop,173,2025
+21,Néon infinie,Aya Volta,Pop,222,1990
+22,Comète de minuit,Club Néons,Pop,220,1991
+23,Marée perdue,Yanis Blanc,Pop,184,2007
+24,Miroir 15,Jade Néon,Pop,233,2015
+25,Sirène de marée,Maé Echo,Pop,198,2012
+26,Horizon 7,Nael Ferro,Pop,199,2012
+27,Écho de voyage,Malo Orsay,Pop,195,2020
+28,Pluie de orage,Nael Ferro,Pop,197,2011
+29,Ivresse 79,Ines Sorel,Pop,216,2018
+30,Pluie de boulevard,Club Néons,Pop,171,2017
+31,Écho 89,Maé Echo,Pop,191,2013
+32,Néon de comète,Trio Rivières,Pop,155,2002
+33,Marée 6,Collectif Ferros,Pop,230,1998
+34,Tempête nocturne,Nael Onyx,Pop,160,2008
+35,Asphalte de rivage,Yanis Blanc,Pop,193,2025
+36,Vertige de carrousel,Nael Onyx,Pop,215,2026
+37,Métro 31,Aya Volta,Pop,192,1994
+38,Néon dorée,Lina Azur,Pop,168,2025
+39,Lumière perdue,Alma Néon,Pop,157,2009
+40,Carrousel immobile,Yanis Lys,Pop,195,2005
+41,Sirène de silence,Yanis Blanc,Pop,155,1993
+42,Velours 43,Maé Lys,Pop,197,2003
+43,Sirène lointaine,Orchestre Néons,Pop,178,1995
+44,Lumière bleue,Orchestre Blancs,Pop,234,2009
+45,Miroir 31,Lou Delta,Pop,178,2026
+46,Asphalte de saison,Maé Echo,Pop,199,2025
+47,Néon 9,Malo Orsay,Pop,208,2023
+48,Mirage 69,Malo Orsay,Pop,206,2022
+49,Asphalte 19,Les Deltas,Pop,174,2015
+50,Lumière électrique,Lina Lys,Pop,223,2008
+51,Distance 29,Duo Mistrals,Pop,163,2014
+52,Boulevard brûlante,Jade Lys,Pop,177,2019
+53,Distance 54,Club Blancs,Pop,176,2017
+54,Silence infinie,Timéo Néon,Pop,212,2017
+55,Sirène de écho,Oscar Onyx,Pop,191,2010
+56,Boulevard fragile,Kenza Lys,Pop,158,1999
+57,Carrousel bleue,Les Deltas,Pop,217,2019
+58,Nuit de distance,Rose Kairo,Pop,156,2021
+59,Mirage immobile,Duo Mistrals,Pop,169,2026
+60,Été dorée,Malo Echo,Pop,238,2024
+61,Vertige de horizon,Nina Onyx,Pop,239,2020
+62,Distance immobile,Jade Néon,Pop,178,2018
+63,Pluie nocturne,Club Néons,Pop,179,2000
+64,Silence dorée,Club Ferros,Pop,191,2019
+65,Vertige de ivresse,Lina Azur,Pop,215,1980
+66,Néon 24,Club Ferros,Pop,163,2011
+67,Lumière infinie,Malo Rivière,Pop,223,1993
+68,Carrousel perdue,Aya Volta,Pop,177,2026
+69,Distance parfaite,Club Néons,Pop,232,2022
+70,Sirène rêveuse,Maé Echo,Pop,232,2006
+71,Satellite de nuit,Noé Vega,Pop,150,2024
+72,Été de horizon,Aya Volta,Pop,234,2013
+73,Écho sauvage,Jade Néon,Pop,155,2011
+74,Orage rêveuse,Rose Kairo,Pop,206,2020
+75,Rivage secrète,Céleste Onyx,Pop,231,2006
+76,Velours secrète,Ines Sorel,Pop,168,1987
+77,Ivresse 18,Kenza Lys,Pop,151,2017
+78,Velours brûlante,Sacha Ferro,Pop,236,2024
+79,Saison secrète,Maé Echo,Pop,185,2006
+80,Néon 80,Jade Lys,Pop,221,2015
+81,Comète de silence,Club Néons,Pop,195,1988
+82,Marée solaire,Malo Rivière,Pop,158,2026
+83,Écho de minuit,Club Blancs,Pop,190,1996
+84,Boulevard de été,Club Blancs,Pop,212,2022
+85,Écho de asphalte,Malo Orsay,Pop,170,2011
+86,Distance fragile,Club Blancs,Pop,187,1991
+87,Sirène de métro,Sacha Ferro,Pop,195,2025
+88,Écho dorée,Aya Volta,Pop,153,1994
+89,Comète de comète,Oscar Onyx,Pop,201,1988
+90,Vertige de comète,Club Ferros,Pop,172,2012
+91,Velours électrique,Rose Blanc,Pop,237,2000
+92,Rivage nocturne,Maé Echo,Pop,199,2021
+93,Miroir 68,Les Prismes,Pop,204,2025
+94,Voyage 7,Jade Lys,Pop,202,2001
+95,Lumière 78,Malo Echo,Pop,218,2023
+96,Silence de mirage,Club Néons,Pop,237,2016
+97,Voyage lente,Jade Néon,Pop,193,1995
+98,Lumière 41,Malo Rivière,Pop,192,2014
+99,Silence 47,Yanis Blanc,Pop,218,2018
+100,Comète de horizon,Duo Mistrals,Pop,181,2008
+101,Cendre perdue,Trio Arcades,Pop,179,1996
+102,Voyage 84,Timéo Néon,Pop,230,2018
+103,Asphalte fragile,Lou Rivière,Pop,239,2024
+104,Velours 3,Nael Ferro,Pop,196,2011
+105,Miroir perdue,Nina Sorel,Pop,227,1988
+106,Silence 48,Sacha Ferro,Pop,199,2019
+107,Aurore perdue,Malo Orsay,Pop,209,2026
+108,Tempête secrète,Trio Rivières,Pop,167,2026
+109,Pluie lointaine,Oscar Onyx,Pop,152,2024
+110,Carrousel 61,Jade Lys,Pop,221,1994
+111,Nuit électrique,Sacha Ferro,Pop,198,2016
+112,Nuit douce,Noé Vega,Pop,221,2017
+113,Vertige bleue,Nina Sorel,Pop,203,1999
+114,Sirène 55,Lou Delta,Pop,200,1990
+115,Carrousel de comète,Malo Rivière,Pop,153,2020
+116,Écho secrète,Nina Onyx,Pop,183,1988
+117,Asphalte infinie,Trio Arcades,Pop,232,2025
+118,Miroir 96,Yanis Lys,Pop,202,2015
+119,Saison 88,Noé Vega,Pop,220,1995
+120,Satellite de vertige,Orchestre Blancs,Pop,224,2012
+121,Tempête 72,Ines Sorel,Pop,199,2020
+122,Silence nocturne,Jade Néon,Pop,211,2005
+123,Été 37,Lou Delta,Pop,230,2004
+124,Distance sauvage,Orchestre Blancs,Pop,231,2011
+125,Distance de boulevard,Kenza Lys,Pop,161,2002
+126,Comète rêveuse,Timéo Néon,Pop,189,1978
+127,Silence de carrousel,Trio Arcades,Pop,235,2026
+128,Mirage de néon,Kenza Lys,Pop,209,2021
+129,Pluie 24,Nina Sorel,Pop,165,2024
+130,Rivage 38,Yanis Lys,Pop,202,2020
+131,Lumière nouvelle,Alma Néon,Pop,153,2005
+132,Écho douce,Club Ferros,Pop,209,2020
+133,Pluie bleue,Orchestre Blancs,Pop,166,2016
+134,Aurore de miroir,Malo Orsay,Pop,194,2005
+135,Nuit fragile,Yanis Blanc,Pop,209,2014
+136,Miroir infinie,Collectif Ferros,Pop,200,2012
+137,Lumière de écho,Rose Blanc,Pop,207,2026
+138,Été électrique,Alma Néon,Pop,187,2024
+139,Saison de écho,Trio Rivières,Pop,157,2005
+140,Horizon de miroir,Maé Lys,Pop,198,1981
+141,Été sauvage,Alma Néon,Pop,159,2019
+142,Asphalte lointaine,Duo Mistrals,Pop,175,1976
+143,Pluie nouvelle,Aya Volta,Pop,216,2025
+144,Cendre 36,Kenza Lys,Pop,231,2026
+145,Néon de aurore,Kenza Lys,Pop,183,2015
+146,Lumière lente,Lou Delta,Pop,179,1997
+147,Vertige de asphalte,Timéo Néon,Pop,191,2020
+148,Sirène 35,Club Blancs,Pop,229,2025
+149,Boulevard dorée,Maé Lys,Pop,236,2019
+150,Asphalte de écho,Alma Néon,Pop,224,2023
+151,Orage nocturne,Les Deltas,Pop,201,2022
+152,Métro de comète,Les Prismes,Pop,214,1996
+153,Asphalte de carrousel,Ines Sorel,Pop,152,2019
+154,Horizon 9,Nael Ferro,Pop,206,2011
+155,Ivresse 45,Trio Arcades,Pop,153,2026
+156,Rivage dorée,Rose Kairo,Pop,222,2022
+157,Mirage 48,Nina Onyx,Pop,223,1994
+158,Sirène de saison,Sacha Ferro,Pop,217,2010
+159,Vertige secrète,Sacha Ferro,Pop,171,2014
+160,Minuit électrique,Rose Blanc,Pop,198,2026
+161,Pluie de sirène,Club Ferros,Pop,206,2022
+162,Velours bleue,Aya Volta,Pop,152,2024
+163,Satellite 69,Rose Blanc,Pop,196,2002
+164,Horizon immobile,Nael Onyx,Pop,191,2018
+165,Saison immobile,Aya Volta,Pop,174,2022
+166,Été 16,Lina Azur,Pop,180,2009
+167,Lumière de minuit,Club Néons,Pop,202,2026
+168,Mirage 66,Lou Delta,Pop,238,2005
+169,Lumière de voyage,Alma Néon,Pop,177,2024
+170,Miroir lointaine,Quartet Kairos,Pop,182,2023
+171,Ivresse de comète,Aya Volta,Pop,154,2026
+172,Marée fragile,Lou Rivière,Pop,210,2023
+173,Minuit nouvelle,Club Néons,Pop,194,2020
+174,Mirage 18,Nina Lune,Pop,174,2020
+175,Miroir 25,Nael Ferro,Pop,232,2002
+176,Ivresse infinie,Nina Sorel,Pop,238,1992
+177,Tempête solaire,Maé Echo,Pop,228,2014
+178,Saison de rivage,Les Prismes,Pop,238,2013
+179,Boulevard parfaite,Club Néons,Pop,174,2010
+180,Sirène de sirène,Timéo Néon,Pop,201,2014
+181,Nuit secrète,Club Blancs,Pop,227,2011
+182,Distance secrète,Malo Rivière,Pop,240,2001
+183,Nuit de néon,Jade Lys,Pop,180,2021
+184,Été de néon,Orchestre Blancs,Pop,185,2007
+185,Orage de minuit,Trio Rivières,Pop,218,2015
+186,Pluie de saison,Aya Volta,Pop,152,2023
+187,Comète dorée,Malo Echo,Pop,178,1995
+188,Mirage 29,Quartet Kairos,Pop,234,2024
+189,Mirage de métro,Nael Ferro,Pop,163,2026
+190,Néon solaire,Club Blancs,Pop,173,2018
+191,Écho de métro,Nael Onyx,Pop,239,2018
+192,Distance 84,Nina Onyx,Pop,200,2009
+193,Nuit de comète,Ines Sorel,Pop,203,1975
+194,Carrousel fragile,Nina Onyx,Pop,234,2020
+195,Néon de silence,Club Néons,Pop,205,1970
+196,Silence 96,Yanis Blanc,Pop,171,2026
+197,Métro de rivage,Les Deltas,Pop,215,1995
+198,Sirène de vertige,Collectif Ferros,Pop,198,2023
+199,Été bleue,Lina Lys,Pop,206,1974
+200,Horizon de pluie,Trio Rivières,Pop,199,2025
+201,Tempête de lumière,Maé Echo,Pop,178,1973
+202,Lumière de mirage,Nina Onyx,Pop,199,2014
+203,Comète 95,Les Prismes,Pop,240,1993
+204,Distance 70,Noé Vega,Pop,206,2015
+205,Cendre nocturne,Les Prismes,Pop,214,2023
+206,Lumière fragile,Maé Echo,Pop,188,2009
+207,Boulevard 98,Malo Rivière,Pop,158,2007
+208,Minuit rêveuse,Collectif Ferros,Pop,191,2016
+209,Boulevard nouvelle,Rose Kairo,Pop,162,2023
+210,Rivage brûlante,Nina Lune,Pop,211,2021
+211,Cendre infinie,Yanis Lys,Pop,235,2022
+212,Distance de tempête,Malo Echo,Pop,235,2023
+213,Sirène perdue,Nael Ferro,Pop,204,2024
+214,Marée 64,Collectif Ferros,Pop,233,2017
+215,Mirage 94,Quartet Kairos,Pop,182,2018
+216,Miroir 42,Lou Rivière,Pop,181,2021
+217,Pluie 48,Club Ferros,Pop,211,2019
+218,Néon 26,Lina Lys,Pop,177,2011
+219,Tempête 16,Rose Kairo,Pop,213,2010
+220,Pluie sauvage,Malo Echo,Pop,196,1967
+221,Écho de cendre,Maé Lys,Pop,207,2025
+222,Nuit 90,Nina Sorel,Pop,223,2016
+223,Aurore parfaite,Maé Lys,Pop,158,1990
+224,Métro nouvelle,Lou Delta,Pop,218,2025
+225,Orage bleue,Timéo Néon,Pop,225,2020
+226,Lumière 71,Orchestre Blancs,Pop,162,2026
+227,Écho 19,Ines Sorel,Pop,226,1999
+228,Satellite fragile,Trio Rivières,Pop,236,2013
+229,Saison de silence,Yanis Lys,Pop,199,2005
+230,Satellite de aurore,Zoé Prisme,Rap FR,179,2011
+231,Écho fragile,Soline Volta,Rap FR,222,2004
+232,Marée de pluie,Zoé Prisme,Rap FR,164,2000
+233,Satellite de distance,Céleste Sable,Rap FR,226,2019
+234,Horizon 12,Lina Volta,Rap FR,195,1992
+235,Été de pluie,Les Corails,Rap FR,219,2011
+236,Nuit de boulevard,Malo Azur,Rap FR,174,2014
+237,Sirène parfaite,Maé Nova,Rap FR,166,2026
+238,Écho brûlante,Les Corails,Rap FR,207,2018
+239,Orage 71,Lina Nova,Rap FR,196,2008
+240,Été solaire,Zoé Prisme,Rap FR,209,2008
+241,Marée de minuit,Zoé Prisme,Rap FR,179,2024
+242,Horizon rêveuse,Marius Arcade,Rap FR,218,2023
+243,Miroir de vertige,Timéo Azur,Rap FR,208,2018
+244,Voyage perdue,Collectif Kairos,Rap FR,212,2020
+245,Horizon solaire,Timéo Sable,Rap FR,180,2017
+246,Mirage de saison,Jade Rivière,Rap FR,230,2026
+247,Satellite de voyage,Yanis Prisme,Rap FR,140,2026
+248,Tempête sauvage,Soline Azur,Rap FR,161,2025
+249,Rivage électrique,Quartet Orsays,Rap FR,179,2019
+250,Cendre brûlante,Maé Nova,Rap FR,190,1994
+251,Mirage de asphalte,Zoé Prisme,Rap FR,154,2019
+252,Vertige de voyage,Zoé Prisme,Rap FR,179,2021
+253,Saison de minuit,Alma Arcade,Rap FR,225,2013
+254,Marée de lumière,Ines Sable,Rap FR,213,2021
+255,Ivresse 35,Rayan Vega,Rap FR,143,1984
+256,Marée secrète,Rayan Vega,Rap FR,203,2012
+257,Orage de nuit,Rayan Vega,Rap FR,156,1981
+258,Minuit 24,Marius Arcade,Rap FR,184,2017
+259,Pluie de pluie,Malo Azur,Rap FR,164,2003
+260,Tempête rêveuse,Timéo Sable,Rap FR,205,1996
+261,Marée 65,Sacha Delta,Rap FR,182,2023
+262,Tempête de minuit,Alma Blanc,Rap FR,182,2023
+263,Mirage bleue,Céleste Sable,Rap FR,192,2023
+264,Vertige fragile,Maé Nova,Rap FR,224,2019
+265,Horizon 29,Club Voltas,Rap FR,198,2009
+266,Boulevard immobile,Ines Sable,Rap FR,181,1979
+267,Mirage 46,Maé Nova,Rap FR,211,2005
+268,Saison 2,Alma Arcade,Rap FR,171,2026
+269,Satellite de rivage,Rayan Néon,Rap FR,143,2014
+270,Voyage 63,Nael Corail,Rap FR,184,2021
+271,Vertige brûlante,Soline Azur,Rap FR,180,2019
+272,Tempête brûlante,Rayan Néon,Rap FR,179,2024
+273,Rivage infinie,Lou Corail,Rap FR,193,2019
+274,Miroir parfaite,Lou Corail,Rap FR,183,2021
+275,Orage de distance,Aya Rivière,Rap FR,162,2016
+276,Métro 11,Céleste Ferro,Rap FR,206,1979
+277,Vertige 84,Aya Rivière,Rap FR,226,2019
+278,Été secrète,Céleste Ferro,Rap FR,180,2019
+279,Comète perdue,Soline Delta,Rap FR,151,2025
+280,Aurore nocturne,Soline Azur,Rap FR,185,2021
+281,Carrousel 39,Soline Delta,Rap FR,230,2017
+282,Été 50,Maé Sable,Rap FR,146,2018
+283,Saison brûlante,Noé Volta,Rap FR,163,2017
+284,Voyage lointaine,Yanis Rivière,Rap FR,209,2023
+285,Horizon 5,Yanis Prisme,Rap FR,164,2021
+286,Silence 24,Aya Rivière,Rap FR,227,2019
+287,Satellite de boulevard,Céleste Ferro,Rap FR,193,2013
+288,Cendre parfaite,Club Voltas,Rap FR,203,2022
+289,Nuit 46,Nael Orsay,Rap FR,221,2017
+290,Orage lointaine,Noé Nova,Rap FR,219,2006
+291,Mirage infinie,Rose Nova,Rap FR,221,2010
+292,Nuit de sirène,Alma Blanc,Rap FR,169,1990
+293,Orage 29,Les Lyss,Rap FR,174,1996
+294,Rivage de sirène,Alma Blanc,Rap FR,222,2025
+295,Écho 95,Ines Sable,Rap FR,178,2023
+296,Silence de marée,Rose Nova,Rap FR,148,2005
+297,Carrousel 3,Zoé Néon,Rap FR,176,1979
+298,Cendre 2,Céleste Sable,Rap FR,229,1987
+299,Carrousel de marée,Soline Volta,Rap FR,157,2003
+300,Lumière immobile,Alma Lune,Rap FR,221,2024
+301,Marée 82,Malo Ferro,Rap FR,178,1996
+302,Horizon brûlante,Rayan Vega,Rap FR,230,2001
+303,Carrousel électrique,Yanis Prisme,Rap FR,148,2022
+304,Pluie immobile,Collectif Kairos,Rap FR,172,2024
+305,Métro 44,Lina Volta,Rap FR,150,2024
+306,Aurore bleue,Rayan Vega,Rap FR,143,2026
+307,Été rêveuse,Sacha Corail,Rap FR,196,2020
+308,Pluie électrique,Céleste Ferro,Rap FR,210,2022
+309,Voyage 91,Noé Volta,Rap FR,193,2025
+310,Voyage 6,Lou Corail,Rap FR,152,2026
+311,Néon lente,Nina Lys,Rap FR,172,1969
+312,Carrousel lente,Les Lyss,Rap FR,208,2022
+313,Velours 93,Alma Arcade,Rap FR,157,2020
+314,Rivage 34,Maé Sable,Rap FR,174,2024
+315,Satellite 91,Alma Lune,Rap FR,221,2004
+316,Satellite secrète,The Corails,Rap FR,153,2022
+317,Sirène de horizon,Noé Nova,Rap FR,143,2025
+318,Sirène 61,Les Lyss,Rap FR,168,1987
+319,Ivresse de lumière,Marius Arcade,Rap FR,205,2006
+320,Miroir électrique,Sacha Corail,Rap FR,148,2015
+321,Horizon parfaite,Sacha Corail,Rap FR,167,2025
+322,Vertige 26,Marius Arcade,Rap FR,185,2025
+323,Carrousel rêveuse,Orchestre Deltas,Rap FR,183,2011
+324,Carrousel lointaine,Maé Orsay,Rap FR,165,2026
+325,Minuit de miroir,Soline Volta,Rap FR,213,2024
+326,Sirène 7,Soline Azur,Rap FR,163,2009
+327,Voyage nocturne,Club Lunes,Rap FR,229,2025
+328,Miroir de comète,Ines Sable,Rap FR,140,1997
+329,Horizon 90,Sacha Corail,Rap FR,212,2008
+330,Mirage 3,The Corails,Rap FR,209,2019
+331,Cendre nouvelle,Les Lyss,Rap FR,145,1996
+332,Carrousel 67,The Corails,Rap FR,212,2015
+333,Été nouvelle,Malo Azur,Rap FR,192,2023
+334,Écho 42,Timéo Lys,Rap FR,190,1995
+335,Comète fragile,Sacha Delta,Rap FR,206,2022
+336,Écho solaire,Lina Volta,Rap FR,192,2025
+337,Vertige de distance,Soline Volta,Rap FR,203,2025
+338,Saison perdue,Soline Delta,Rap FR,208,2023
+339,Comète 59,Noé Nova,Rap FR,158,2021
+340,Écho 39,Maé Sable,Rap FR,228,2023
+341,Écho lointaine,Maé Nova,Rap FR,156,1996
+342,Métro parfaite,Alma Arcade,Rap FR,215,2018
+343,Été de velours,Soline Delta,Rap FR,210,2026
+344,Boulevard de voyage,Nael Kairo,Rap FR,190,2026
+345,Pluie 50,Nina Lys,Rap FR,173,2019
+346,Miroir de nuit,Noé Volta,Rap FR,225,2019
+347,Horizon 69,Trio Prismes,Rap FR,171,2019
+348,Mirage électrique,Lina Volta,Rap FR,200,2014
+349,Ivresse sauvage,Noé Nova,Rap FR,209,2008
+350,Miroir de rivage,Les Corails,Rap FR,172,2006
+351,Miroir 6,Céleste Ferro,Rap FR,195,2015
+352,Silence immobile,Céleste Ferro,Rap FR,204,2004
+353,Pluie de distance,Malo Azur,Rap FR,191,2005
+354,Horizon 97,Quartet Orsays,Rap FR,203,1992
+355,Comète de miroir,Lou Corail,Rap FR,200,2015
+356,Métro douce,Ines Sable,Rap FR,227,2019
+357,Métro lente,Duo Voltas,Rap FR,140,2017
+358,Cendre de été,Trio Echos,Rap FR,187,1999
+359,Carrousel de voyage,Zoé Néon,Rap FR,197,2024
+360,Marée lointaine,Jade Rivière,Rap FR,181,2021
+361,Néon 72,Rayan Néon,Rap FR,155,2019
+362,Cendre 89,Timéo Lys,Rap FR,141,2003
+363,Ivresse de aurore,Timéo Azur,Rap FR,190,2022
+364,Aurore de nuit,Quartet Orsays,Rap FR,189,2021
+365,Voyage 61,Yanis Prisme,Rap FR,176,2014
+366,Saison 19,Quartet Lunes,Rap FR,164,2021
+367,Vertige 16,Rayan Vega,Rap FR,222,2006
+368,Rivage perdue,Timéo Lys,Rap FR,211,2018
+369,Saison 79,Club Lunes,Rap FR,174,2013
+370,Métro fragile,Duo Voltas,Rap FR,222,2016
+371,Cendre de mirage,Nina Lys,Rap FR,157,2016
+372,Écho 59,Kenza Sorel,Rap FR,220,2013
+373,Tempête 19,The Corails,Rap FR,165,2005
+374,Cendre 25,Timéo Azur,Rap FR,148,2014
+375,Aurore de voyage,Sacha Corail,Rap FR,157,2022
+376,Distance nouvelle,Zoé Néon,Rap FR,196,2019
+377,Pluie de mirage,Maé Prisme,Rap FR,144,2019
+378,Velours de velours,Sacha Delta,Rap FR,200,2014
+379,Ivresse 20,Sacha Corail,Rap FR,178,2025
+380,Tempête 75,Nina Lys,Rap FR,163,2004
+381,Velours de comète,Rose Nova,Rap FR,176,2022
+382,Marée 96,Sacha Orsay,Rap FR,187,2014
+383,Vertige de saison,Yanis Prisme,Rap FR,210,1969
+384,Velours lointaine,Les Corails,Rap FR,194,2013
+385,Aurore lointaine,Soline Delta,Rap FR,189,2020
+386,Asphalte sauvage,Lou Corail,Rap FR,164,2026
+387,Pluie 14,Jade Rivière,Rap FR,207,2024
+388,Ivresse de cendre,Yanis Rivière,Rap FR,178,2023
+389,Asphalte de nuit,Lou Corail,Rap FR,183,2026
+390,Saison 26,Nina Azur,Rap FR,216,2019
+391,Silence de cendre,Rayan Sable,Rap FR,160,1974
+392,Écho de mirage,Sacha Rivière,Rap FR,157,2005
+393,Sirène lente,Nina Azur,Rap FR,152,2024
+394,Vertige perdue,Sacha Rivière,Rap FR,230,2012
+395,Horizon de minuit,Nael Corail,Rap FR,198,2023
+396,Rivage de pluie,Maé Orsay,Rap FR,198,2011
+397,Mirage brûlante,Trio Prismes,Rap FR,153,2005
+398,Néon de écho,Club Voltas,Rap FR,230,2011
+399,Orage de orage,Quartet Sorels,Rap FR,208,2002
+400,Ivresse 3,Lina Volta,Rap FR,190,1999
+401,Vertige infinie,Timéo Sable,Rap FR,178,2015
+402,Asphalte de boulevard,Soline Volta,Rap FR,210,2026
+403,Ivresse dorée,Alma Blanc,Rap FR,180,2025
+404,Tempête de boulevard,Malo Ferro,Rap FR,215,2022
+405,Minuit de comète,Rayan Vega,Rap FR,177,2022
+406,Lumière 93,Alma Lune,Rap FR,167,2020
+407,Saison de orage,Sacha Orsay,Rap FR,151,2022
+408,Silence de minuit,Club Lunes,Rap FR,222,2011
+409,Distance brûlante,Zoé Néon,Rap FR,217,2024
+410,Saison douce,Soline Volta,Rap FR,150,2023
+411,Asphalte dorée,Zoé Néon,Rap FR,156,2023
+412,Saison électrique,Les Corails,Rap FR,209,2014
+413,Asphalte nocturne,Céleste Sable,Rap FR,171,2013
+414,Comète 40,Lina Volta,Rap FR,185,2024
+415,Été 26,Marius Arcade,Rap FR,169,2025
+416,Boulevard 44,Nael Corail,Rap FR,225,2025
+417,Ivresse de néon,Malo Azur,Rap FR,216,2017
+418,Écho perdue,Les Corails,Rap FR,187,1999
+419,Orage de pluie,Lina Volta,Rap FR,207,2018
+420,Lumière de lumière,Collectif Kairos,Rap FR,207,2005
+421,Distance 75,Rayan Vega,Rap FR,178,2024
+422,Métro de lumière,Nael Orsay,Rap FR,173,2026
+423,Saison de métro,Club Voltas,Rap FR,156,2018
+424,Orage 41,Soline Azur,Rap FR,171,2020
+425,Pluie de lumière,Sacha Delta,Rap FR,152,1999
+426,Ivresse de carrousel,Nina Lys,Rap FR,204,2006
+427,Mirage nouvelle,Quartet Lunes,Rap FR,190,2025
+428,Boulevard perdue,Soline Volta,Rap FR,160,2023
+429,Horizon lointaine,Timéo Azur,Rap FR,220,2023
+430,Cendre de miroir,Yanis Rivière,Rap FR,166,1989
+431,Lumière de orage,Les Corails,Rap FR,140,2001
+432,Marée 51,Céleste Sable,Rap FR,189,2021
+433,Miroir 78,Alma Arcade,Rap FR,211,2021
+434,Horizon 67,Rose Delta,Rap FR,210,2012
+435,Métro de été,Jade Rivière,Rap FR,182,2010
+436,Lumière brûlante,Maé Nova,Rap FR,198,2019
+437,Saison de vertige,Marius Arcade,Rap FR,158,1993
+438,Été parfaite,Aya Rivière,Rap FR,157,2011
+439,Minuit bleue,Les Corails,Rap FR,162,2017
+440,Orage 70,Noé Nova,Rap FR,222,2005
+441,Miroir de minuit,Sacha Delta,Rap FR,145,1985
+442,Mirage de boulevard,Alma Lune,Rap FR,180,2017
+443,Cendre douce,Sacha Rivière,Rap FR,158,2004
+444,Horizon nouvelle,Noé Nova,Rap FR,152,2014
+445,Été 89,Soline Azur,Rap FR,206,1999
+446,Ivresse de silence,Jade Rivière,Rap FR,207,2019
+447,Miroir brûlante,Noé Delta,Électro,255,2007
+448,Été infinie,Soline Lune,Électro,318,2004
+449,Miroir de lumière,Soline Lune,Électro,264,2026
+450,Distance de aurore,The Ferros,Électro,188,1997
+451,Asphalte secrète,Soline Lune,Électro,260,2025
+452,Néon de marée,Noé Onyx,Électro,324,2015
+453,Lumière 40,Elio Lune,Électro,228,2019
+454,Satellite bleue,Nael Echo,Électro,260,2024
+455,Sirène immobile,Yanis Azur,Électro,353,2014
+456,Rivage nouvelle,Duo Sables,Électro,236,2019
+457,Mirage 38,Yanis Azur,Électro,271,1986
+458,Voyage de métro,Malo Delta,Électro,297,2026
+459,Velours fragile,Rayan Ferro,Électro,206,1965
+460,Comète de écho,Aya Ferro,Électro,270,2025
+461,Sirène 74,Rayan Ferro,Électro,268,2016
+462,Nuit de saison,Elio Volta,Électro,306,2023
+463,Métro de néon,Quartet Arcades,Électro,301,2021
+464,Métro nocturne,The Ferros,Électro,355,2021
+465,Asphalte de néon,Elio Prisme,Électro,358,2022
+466,Métro de orage,Collectif Mistrals,Électro,212,2005
+467,Nuit sauvage,Malo Arcade,Électro,323,2019
+468,Aurore brûlante,Rayan Ferro,Électro,228,2005
+469,Voyage sauvage,Timéo Echo,Électro,328,1984
+470,Satellite perdue,Quartet Arcades,Électro,314,2009
+471,Minuit 49,Soline Lune,Électro,349,2010
+472,Saison de boulevard,Oscar Nova,Électro,311,2026
+473,Vertige douce,Quartet Arcades,Électro,209,2004
+474,Miroir 70,Duo Sables,Électro,202,1980
+475,Voyage de velours,Quartet Arcades,Électro,330,2025
+476,Métro secrète,The Ferros,Électro,236,2016
+477,Comète électrique,Céleste Orsay,Électro,318,1992
+478,Vertige de sirène,Soline Lune,Électro,285,2004
+479,Orage secrète,Rayan Ferro,Électro,357,2026
+480,Boulevard de marée,Elio Lune,Électro,344,2002
+481,Saison de saison,Elio Volta,Électro,278,2012
+482,Néon de mirage,Club Corails,Électro,322,2025
+483,Asphalte de tempête,Marius Orsay,Électro,196,2026
+484,Vertige lointaine,Oscar Nova,Électro,355,2026
+485,Orage dorée,Duo Sables,Électro,232,1990
+486,Marée 35,Noé Onyx,Électro,262,1981
+487,Aurore dorée,Duo Sables,Électro,333,2024
+488,Tempête de asphalte,Quartet Arcades,Électro,324,2023
+489,Néon de néon,Nael Echo,Électro,188,2007
+490,Carrousel 32,Elio Lune,Électro,343,2004
+491,Satellite 19,Elio Lune,Électro,295,1979
+492,Boulevard 53,Elio Lune,Électro,258,2020
+493,Sirène 98,Timéo Echo,Électro,209,2015
+494,Néon 63,Yanis Azur,Électro,347,2025
+495,Voyage 74,The Lunes,Électro,341,2013
+496,Mirage de miroir,Collectif Mistrals,Électro,248,2017
+497,Vertige de écho,Noé Onyx,Électro,264,2016
+498,Satellite nocturne,Quartet Arcades,Électro,261,2012
+499,Asphalte bleue,The Lunes,Électro,260,2013
+500,Voyage de lumière,Elio Volta,Électro,227,2016
+501,Néon immobile,Yanis Azur,Électro,193,2026
+502,Voyage dorée,Elio Lune,Électro,194,2026
+503,Néon de horizon,Yanis Azur,Électro,359,2013
+504,Velours nocturne,Rayan Ferro,Électro,283,2020
+505,Nuit 98,Marius Orsay,Électro,297,2024
+506,Miroir bleue,Collectif Mistrals,Électro,327,1989
+507,Cendre secrète,Timéo Echo,Électro,292,2018
+508,Tempête de distance,Collectif Mistrals,Électro,333,2025
+509,Distance douce,Elio Prisme,Électro,320,2019
+510,Velours 64,Duo Sables,Électro,339,2019
+511,Orage perdue,Rayan Ferro,Électro,185,2018
+512,Néon électrique,Lou Sorel,Électro,195,2012
+513,Orage immobile,Noé Onyx,Électro,297,2006
+514,Velours solaire,Club Corails,Électro,330,2020
+515,Minuit perdue,Elio Prisme,Électro,196,2017
+516,Métro infinie,Malo Delta,Électro,312,2023
+517,Rivage de saison,Club Corails,Électro,243,1999
+518,Minuit 63,Aya Ferro,Électro,342,2024
+519,Velours sauvage,Céleste Orsay,Électro,297,2002
+520,Miroir fragile,Malo Delta,Électro,200,1992
+521,Lumière sauvage,Elio Prisme,Électro,299,2019
+522,Minuit dorée,Céleste Orsay,Électro,256,2020
+523,Rivage solaire,Marius Ferro,Électro,360,2015
+524,Boulevard 64,Oscar Nova,Électro,224,1997
+525,Silence douce,Oscar Nova,Électro,296,2014
+526,Néon 25,Noé Mistral,Électro,199,2024
+527,Distance infinie,Timéo Echo,Électro,300,1983
+528,Écho 9,Malo Delta,Électro,296,2005
+529,Mirage de comète,Timéo Echo,Électro,290,2009
+530,Orage de satellite,Elio Prisme,Électro,298,1989
+531,Asphalte 45,The Ferros,Électro,292,2021
+532,Aurore rêveuse,Club Corails,Électro,331,2016
+533,Comète 63,Noé Mistral,Électro,236,2017
+534,Pluie 33,Malo Arcade,Électro,357,2016
+535,Marée nocturne,Marius Ferro,Électro,220,2018
+536,Néon douce,Noé Delta,Électro,235,2019
+537,Miroir de été,Malo Kairo,Électro,209,1985
+538,Minuit immobile,Noé Delta,Électro,200,2020
+539,Orage 33,Yanis Azur,Électro,325,2024
+540,Tempête bleue,Rayan Ferro,Électro,271,2002
+541,Lumière secrète,The Lunes,Électro,267,2004
+542,Boulevard 90,Collectif Mistrals,Électro,356,1990
+543,Cendre 5,Oscar Nova,Électro,327,1997
+544,Vertige 11,Rayan Ferro,Électro,353,2004
+545,Velours infinie,Elio Prisme,Électro,202,2011
+546,Silence solaire,Marius Ferro,Électro,231,2011
+547,Nuit infinie,Noé Mistral,Électro,192,1992
+548,Ivresse de voyage,Rayan Ferro,Électro,228,2023
+549,Comète immobile,Nael Echo,Électro,251,2014
+550,Voyage de écho,Noé Mistral,Électro,271,2019
+551,Ivresse de écho,Soline Lune,Électro,211,2013
+552,Asphalte de silence,Timéo Echo,Électro,333,2013
+553,Horizon de sirène,Nael Echo,Électro,300,1998
+554,Saison fragile,Oscar Nova,Électro,324,2015
+555,Horizon 76,Soline Lune,Électro,325,2015
+556,Boulevard secrète,Noé Mistral,Électro,232,2009
+557,Tempête nouvelle,Malo Kairo,Électro,310,2018
+558,Écho 66,The Ferros,Électro,254,1988
+559,Carrousel sauvage,Club Corails,Électro,314,2022
+560,Été fragile,Malo Arcade,Électro,231,1996
+561,Miroir secrète,Duo Sables,Électro,242,2016
+562,Métro électrique,Yanis Azur,Électro,359,2008
+563,Asphalte 3,Quartet Arcades,Électro,281,2015
+564,Saison 11,Quartet Arcades,Électro,181,1995
+565,Tempête de mirage,Elio Lune,Électro,329,2022
+566,Ivresse bleue,Oscar Nova,Électro,245,1996
+567,Satellite sauvage,Timéo Echo,Électro,198,2021
+568,Minuit de silence,Collectif Mistrals,Électro,352,2012
+569,Distance 17,Quartet Arcades,Électro,320,2000
+570,Mirage de horizon,Soline Lune,Électro,297,1972
+571,Écho de pluie,Oscar Nova,Électro,185,2012
+572,Minuit 26,Elio Prisme,Électro,205,2022
+573,Comète brûlante,Duo Sables,Électro,233,2015
+574,Ivresse 47,The Lunes,Électro,185,2010
+575,Marée de été,Malo Kairo,Électro,193,2022
+576,Voyage de horizon,Elio Volta,Électro,346,2001
+577,Été nocturne,Malo Delta,Électro,294,2025
+578,Distance solaire,Duo Sables,Électro,298,1992
+579,Néon bleue,Malo Arcade,Électro,349,2021
+580,Cendre électrique,Malo Kairo,Électro,352,2019
+581,Tempête de tempête,Malo Arcade,Électro,310,2009
+582,Minuit secrète,The Ferros,Électro,335,2022
+583,Distance de satellite,The Lunes,Électro,248,2018
+584,Distance 42,The Lunes,Électro,208,2023
+585,Distance de marée,Elio Volta,Électro,255,2015
+586,Satellite nouvelle,Lou Sorel,Électro,245,2017
+587,Vertige de rivage,Quartet Arcades,Électro,273,2020
+588,Cendre 90,Soline Lune,Électro,290,1989
+589,Horizon infinie,Marius Orsay,Électro,235,1996
+590,Minuit solaire,Elio Volta,Électro,234,1998
+591,Néon 85,Quartet Arcades,Électro,339,2020
+592,Marée dorée,Rose Néon,Rock,219,2024
+593,Miroir de sirène,Elio Nova,Rock,234,2008
+594,Voyage 60,Duo Vegas,Rock,295,2022
+595,Orage sauvage,Malo Lys,Rock,184,2006
+596,Pluie perdue,Les Néons,Rock,260,2018
+597,Satellite 86,Collectif Corails,Rock,262,2023
+598,Été immobile,Elio Nova,Rock,289,2020
+599,Nuit solaire,Duo Vegas,Rock,240,2024
+600,Été douce,Duo Vegas,Rock,210,1987
+601,Sirène brûlante,Oscar Néon,Rock,276,2014
+602,Minuit 85,Les Néons,Rock,286,2025
+603,Mirage 75,Yanis Echo,Rock,173,2009
+604,Néon 73,Céleste Azur,Rock,211,2024
+605,Carrousel douce,Rose Vega,Rock,296,2006
+606,Ivresse de sirène,Kenza Orsay,Rock,254,2017
+607,Marée immobile,Oscar Rivière,Rock,267,2018
+608,Silence de métro,Alma Corail,Rock,261,2014
+609,Aurore de silence,Rose Vega,Rock,174,2020
+610,Minuit sauvage,Céleste Volta,Rock,198,1980
+611,Marée parfaite,Les Néons,Rock,237,2003
+612,Pluie infinie,Ines Kairo,Rock,241,2022
+613,Lumière lointaine,The Lyss,Rock,235,2002
+614,Pluie 53,Oscar Néon,Rock,294,2015
+615,Pluie 60,Les Néons,Rock,228,2019
+616,Lumière 50,Alma Echo,Rock,269,2025
+617,Marée 10,Collectif Corails,Rock,257,2020
+618,Voyage rêveuse,Zoé Ferro,Rock,202,2014
+619,Pluie lente,Nael Vega,Rock,259,2025
+620,Orage fragile,Rose Néon,Rock,192,2010
+621,Marée brûlante,Oscar Néon,Rock,223,2025
+622,Sirène fragile,Oscar Rivière,Rock,171,2007
+623,Orage de marée,Alma Echo,Rock,180,2015
+624,Orage 13,Kenza Orsay,Rock,283,2018
+625,Lumière 30,Duo Vegas,Rock,178,2023
+626,Rivage 92,Oscar Rivière,Rock,185,2021
+627,Marée de distance,Alma Echo,Rock,181,1997
+628,Horizon nocturne,Malo Onyx,Rock,178,1993
+629,Velours de satellite,Céleste Volta,Rock,240,2020
+630,Été 73,Les Orsays,Rock,202,1974
+631,Comète 91,Oscar Rivière,Rock,285,1996
+632,Saison 36,Alma Azur,Rock,171,2010
+633,Velours douce,Iris Lune,Rock,271,2023
+634,Silence bleue,Nael Vega,Rock,206,2008
+635,Lumière 42,Malo Lys,Rock,235,2013
+636,Velours 54,Iris Lune,Rock,174,2020
+637,Horizon perdue,Elio Lys,Rock,267,2025
+638,Métro de horizon,Céleste Azur,Rock,219,2024
+639,Écho 82,Elio Saphir,Rock,284,2020
+640,Lumière douce,Collectif Corails,Rock,272,2024
+641,Voyage de vertige,Elio Saphir,Rock,286,2001
+642,Boulevard douce,Aya Corail,Rock,273,2008
+643,Ivresse de mirage,Céleste Azur,Rock,191,2018
+644,Minuit 16,Lou Onyx,Rock,251,1999
+645,Ivresse de satellite,Zoé Ferro,Rock,253,2016
+646,Orage 83,Rose Néon,Rock,194,2026
+647,Satellite solaire,Collectif Corails,Rock,223,2016
+648,Marée infinie,Collectif Prismes,Rock,295,1989
+649,Écho de orage,Aya Blanc,Rock,185,2022
+650,Velours de carrousel,Timéo Lune,Rock,243,2016
+651,Boulevard de miroir,Yanis Echo,Rock,295,2017
+652,Horizon 86,Rayan Echo,Rock,179,2022
+653,Mirage fragile,Orchestre Lyss,Rock,271,2001
+654,Saison 53,Zoé Ferro,Rock,257,2000
+655,Velours de silence,Ines Saphir,Rock,290,2021
+656,Été de ivresse,Iris Lune,Rock,298,2011
+657,Cendre immobile,Collectif Corails,Rock,242,2019
+658,Sirène de cendre,Elio Nova,Rock,290,2025
+659,Sirène secrète,Céleste Volta,Rock,239,1997
+660,Comète de aurore,Rose Rivière,Rock,213,2023
+661,Miroir de saison,Ines Kairo,Rock,266,2021
+662,Écho de boulevard,Rose Vega,Rock,187,2023
+663,Satellite 89,The Lyss,Rock,197,2002
+664,Horizon 66,Oscar Azur,Rock,291,2004
+665,Marée de orage,Kenza Ferro,Rock,217,2013
+666,Tempête 38,Orchestre Lyss,Rock,236,2026
+667,Tempête douce,Rayan Echo,Rock,197,1988
+668,Voyage 11,Timéo Lune,Rock,286,2001
+669,Ivresse brûlante,Zoé Ferro,Rock,180,1965
+670,Écho de vertige,Elio Saphir,Rock,269,2010
+671,Tempête 62,Orchestre Lyss,Rock,271,2004
+672,Nuit de miroir,Timéo Lune,Rock,262,2020
+673,Satellite lente,Lou Onyx,Rock,257,2016
+674,Néon rêveuse,Alma Corail,Rock,290,2013
+675,Velours 89,Elio Nova,Rock,225,2003
+676,Boulevard de ivresse,Kenza Orsay,Rock,289,2004
+677,Ivresse 78,Lina Blanc,Rock,212,2015
+678,Été lente,Aya Blanc,Rock,300,2003
+679,Minuit 93,Rose Sable,Rock,174,2007
+680,Tempête lointaine,Les Néons,Rock,203,2018
+681,Satellite 61,Kenza Orsay,Rock,240,2019
+682,Sirène de comète,Rose Rivière,Rock,277,2022
+683,Mirage 30,Collectif Arcades,Rock,278,2018
+684,Nuit nouvelle,The Lyss,Rock,174,2020
+685,Aurore 52,Nael Vega,Rock,195,2022
+686,Aurore 18,Rose Rivière,Rock,288,1994
+687,Velours de boulevard,Kenza Orsay,Rock,185,1990
+688,Écho 62,Rose Vega,Rock,256,2019
+689,Cendre dorée,Marius Lys,Rock,249,1984
+690,Voyage de pluie,Collectif Corails,Rock,252,1985
+691,Orage 27,Oscar Rivière,Rock,207,2001
+692,Lumière de marée,Nael Vega,Rock,183,2022
+693,Miroir 50,Kenza Ferro,Rock,260,2009
+694,Carrousel de néon,Ines Saphir,Rock,217,1965
+695,Ivresse fragile,Collectif Prismes,Rock,292,2018
+696,Minuit douce,Rose Vega,Rock,191,2006
+697,Cendre de silence,Lou Onyx,Rock,196,2007
+698,Miroir de horizon,Lina Blanc,Rock,291,2020
+699,Marée de saison,Lina Blanc,Rock,188,2015
+700,Aurore de distance,Alma Echo,Rock,253,1983
+701,Été 8,Kenza Orsay,Rock,274,2012
+702,Été de nuit,Rose Vega,Rock,179,2012
+703,Cendre de marée,Les Orsays,Rock,265,2023
+704,Asphalte rêveuse,Aya Blanc,Rock,221,1995
+705,Nuit brûlante,Duo Vegas,Rock,225,2018
+706,Marée 58,Alma Echo,Rock,179,1978
+707,Rivage 7,Rose Néon,Rock,171,2025
+708,Comète de sirène,Collectif Arcades,Rock,263,2004
+709,Velours 80,Collectif Prismes,Rock,300,2023
+710,Lumière de ivresse,Oscar Néon,Rock,261,2021
+711,Aurore 46,Elio Lys,Rock,299,2025
+712,Métro de carrousel,Elio Saphir,Rock,173,2012
+713,Aurore 49,Elio Saphir,Rock,211,2014
+714,Comète infinie,Elio Nova,Rock,221,2024
+715,Été 11,Elio Nova,Rock,256,2010
+716,Comète solaire,Elio Nova,Rock,179,1999
+717,Horizon dorée,Alma Azur,Rock,289,2019
+718,Satellite 88,Les Orsays,Rock,257,2008
+719,Marée 30,Elio Nova,Rock,270,2010
+720,Silence de orage,Collectif Arcades,Rock,220,2017
+721,Minuit de vertige,Oscar Rivière,Rock,224,2015
+722,Tempête lente,Collectif Corails,Rock,201,2022
+723,Asphalte immobile,Ines Kairo,Rock,182,2026
+724,Minuit brûlante,Zoé Ferro,Rock,188,2024
+725,Satellite de métro,Alma Azur,Rock,282,2012
+726,Voyage de asphalte,Elio Saphir,Rock,273,2021
+727,Sirène de velours,Alma Echo,Rock,220,2006
+728,Nuit de mirage,Collectif Prismes,Rock,300,2016
+729,Mirage de distance,Ines Kairo,Rock,194,2001
+730,Orage de mirage,Oscar Néon,Rock,199,2025
+731,Voyage de saison,Orchestre Lyss,Rock,171,2008
+732,Ivresse 94,Les Orsays,Rock,284,2010
+733,Rivage de comète,Ines Kairo,Rock,236,2025
+734,Vertige sauvage,Timéo Lune,Rock,237,2018
+735,Métro bleue,Orchestre Ferros,Rock,226,2022
+736,Lumière de été,Oscar Azur,Rock,256,2024
+737,Vertige 88,Marius Lys,Rock,237,1988
+738,Vertige parfaite,Alma Echo,Rock,276,2018
+739,Néon perdue,Duo Vegas,Rock,240,2025
+740,Orage 94,Orchestre Ferros,Rock,188,1970
+741,Miroir 41,Iris Lune,Rock,207,2016
+742,Vertige 63,Ines Kairo,Rock,182,2003
+743,Été brûlante,Timéo Orsay,Rock,201,2015
+744,Sirène électrique,Oscar Néon,Rock,205,2011
+745,Rivage 62,Malo Onyx,Rock,246,2004
+746,Voyage 93,Kenza Ferro,Rock,275,2010
+747,Horizon douce,Aya Corail,Rock,217,2017
+748,Rivage de vertige,Elio Nova,Rock,194,2009
+749,Nuit 62,Noé Rivière,R&B,175,2005
+750,Métro 91,The Azurs,R&B,232,1997
+751,Marée de silence,Jade Mistral,R&B,209,2001
+752,Métro sauvage,Collectif Lyss,R&B,217,2021
+753,Silence lente,Maé Blanc,R&B,211,2025
+754,Rivage 4,Quartet Saphirs,R&B,215,2021
+755,Minuit 74,Nael Saphir,R&B,198,2024
+756,Orage 17,Kenza Azur,R&B,167,2000
+757,Orage de carrousel,Maé Blanc,R&B,230,2021
+758,Marée 20,Collectif Lyss,R&B,224,2026
+759,Nuit bleue,Trio Kairos,R&B,234,2026
+760,Tempête fragile,Sacha Vega,R&B,213,1972
+761,Carrousel de métro,Ines Echo,R&B,197,1999
+762,Nuit 21,Nael Azur,R&B,227,2011
+763,Asphalte de métro,The Azurs,R&B,232,1990
+764,Velours rêveuse,Ines Néon,R&B,191,2026
+765,Mirage de minuit,Lina Corail,R&B,161,1988
+766,Rivage 36,Sacha Vega,R&B,218,2015
+767,Satellite parfaite,Trio Kairos,R&B,238,2026
+768,Aurore de minuit,Noé Rivière,R&B,161,2026
+769,Distance 67,Ines Echo,R&B,176,2017
+770,Nuit de voyage,Collectif Lyss,R&B,203,2010
+771,Satellite 65,Maé Mistral,R&B,227,2018
+772,Voyage brûlante,Maé Blanc,R&B,188,2005
+773,Velours de voyage,Trio Kairos,R&B,241,1992
+774,Pluie douce,Collectif Lyss,R&B,245,2021
+775,Silence de ivresse,Nina Corail,R&B,176,1998
+776,Boulevard infinie,Lina Corail,R&B,231,2004
+777,Asphalte de comète,Kenza Azur,R&B,220,2026
+778,Nuit de carrousel,Quartet Saphirs,R&B,250,1980
+779,Cendre de distance,Sacha Kairo,R&B,178,2022
+780,Distance lointaine,Jade Mistral,R&B,198,2005
+781,Ivresse de velours,Duo Onyxs,R&B,197,2019
+782,Cendre de velours,Nina Corail,R&B,185,2006
+783,Cendre 96,Sacha Vega,R&B,239,2016
+784,Orage parfaite,Nina Corail,R&B,215,2017
+785,Mirage perdue,The Azurs,R&B,231,2024
+786,Distance nocturne,Ines Echo,R&B,217,1995
+787,Nuit 22,Duo Onyxs,R&B,221,2021
+788,Miroir 16,Collectif Vegas,R&B,185,2020
+789,Vertige 29,Maé Mistral,R&B,214,2021
+790,Néon fragile,Collectif Vegas,R&B,210,2026
+791,Écho de miroir,Kenza Azur,R&B,240,2022
+792,Comète parfaite,Trio Kairos,R&B,168,2017
+793,Métro de saison,Sacha Kairo,R&B,239,1986
+794,Mirage de cendre,Maé Mistral,R&B,245,2016
+795,Mirage 7,Jade Mistral,R&B,197,2026
+796,Miroir 22,Rose Sorel,R&B,167,2023
+797,Vertige 45,Quartet Saphirs,R&B,188,2014
+798,Horizon de été,Kenza Azur,R&B,245,2019
+799,Rivage de ivresse,Duo Onyxs,R&B,197,2023
+800,Pluie 70,Nina Corail,R&B,208,2023
+801,Tempête 80,Kenza Azur,R&B,172,2003
+802,Néon lointaine,Rose Sorel,R&B,223,2000
+803,Rivage sauvage,Sacha Vega,R&B,210,2020
+804,Aurore de marée,Nael Azur,R&B,214,2026
+805,Satellite de asphalte,Jade Mistral,R&B,224,1988
+806,Vertige dorée,Collectif Vegas,R&B,172,2017
+807,Mirage de sirène,Nael Saphir,R&B,224,2026
+808,Lumière 4,The Azurs,R&B,222,2016
+809,Tempête 14,Nael Azur,R&B,168,2000
+810,Mirage de marée,Nael Azur,R&B,216,2014
+811,Métro 20,Ines Echo,R&B,243,1991
+812,Asphalte 81,Collectif Vegas,R&B,181,2024
+813,Miroir 69,Collectif Vegas,R&B,183,2015
+814,Vertige 4,Maé Mistral,R&B,229,2021
+815,Asphalte lente,Ines Echo,R&B,197,2006
+816,Boulevard de tempête,Collectif Vegas,R&B,248,2022
+817,Orage 21,Nael Saphir,R&B,241,2011
+818,Cendre sauvage,Collectif Vegas,R&B,199,2021
+819,Mirage 42,Nael Saphir,R&B,162,2013
+820,Orage 34,Duo Onyxs,R&B,233,2025
+821,Vertige 10,Trio Kairos,R&B,235,2021
+822,Voyage de boulevard,The Azurs,R&B,177,1992
+823,Voyage de sirène,Ines Echo,R&B,180,2022
+824,Distance 46,Maé Mistral,R&B,192,2008
+825,Sirène douce,Maé Mistral,R&B,232,2003
+826,Pluie secrète,Duo Onyxs,R&B,243,2018
+827,Saison dorée,The Azurs,R&B,223,2014
+828,Été 84,Soline Corail,R&B,190,2012
+829,Nuit immobile,Nina Corail,R&B,243,1972
+830,Vertige de aurore,Kenza Azur,R&B,214,2023
+831,Distance de mirage,The Azurs,R&B,213,1999
+832,Horizon de tempête,Sacha Vega,R&B,169,1988
+833,Satellite électrique,Iris Néon,Variété française,199,2015
+834,Nuit 64,The Saphirs,Variété française,251,1991
+835,Silence 56,Marius Echo,Variété française,188,2021
+836,Mirage 65,Nina Saphir,Variété française,219,2013
+837,Aurore douce,The Saphirs,Variété française,233,2008
+838,Lumière 53,Malo Sorel,Variété française,177,1999
+839,Écho de aurore,The Saphirs,Variété française,196,2025
+840,Miroir 63,Yanis Nova,Variété française,223,2024
+841,Cendre de ivresse,The Saphirs,Variété française,211,1997
+842,Velours 34,Kenza Echo,Variété française,257,2025
+843,Néon 44,Iris Lys,Variété française,260,2024
+844,Néon 61,The Saphirs,Variété française,183,2000
+845,Satellite de orage,Quartet Prismes,Variété française,201,2024
+846,Silence 37,Yanis Nova,Variété française,184,2020
+847,Velours 39,The Saphirs,Variété française,198,2009
+848,Pluie brûlante,Lou Kairo,Variété française,169,2014
+849,Orage 46,Nina Saphir,Variété française,183,2021
+850,Nuit lointaine,Orchestre Mistrals,Variété française,189,1984
+851,Tempête 64,Quartet Prismes,Variété française,189,2007
+852,Néon 82,Marius Echo,Variété française,234,2016
+853,Velours lente,Yanis Nova,Variété française,186,1998
+854,Minuit 89,Kenza Echo,Variété française,238,2023
+855,Pluie 54,Duo Prismes,Variété française,184,2001
+856,Voyage solaire,Malo Sorel,Variété française,180,1991
+857,Silence 49,Lou Kairo,Variété française,246,2024
+858,Voyage de minuit,Lou Kairo,Variété française,254,1999
+859,Silence fragile,Aya Arcade,Variété française,238,2023
+860,Silence de écho,Iris Lys,Variété française,207,2018
+861,Distance perdue,Iris Néon,Variété française,229,2016
+862,Été de écho,Malo Sorel,Variété française,255,2016
+863,Cendre de lumière,Duo Prismes,Variété française,163,2024
+864,Sirène de minuit,Marius Echo,Variété française,256,2025
+865,Métro immobile,Marius Echo,Variété française,197,2018
+866,Voyage fragile,Collectif Saphirs,Variété française,197,2024
+867,Distance 27,Rose Arcade,Variété française,218,2025
+868,Lumière 22,Iris Néon,Variété française,220,2024
+869,Sirène 4,Duo Prismes,Variété française,191,2018
+870,Nuit de aurore,Rose Arcade,Variété française,172,1992
+871,Métro de miroir,Iris Lys,Variété française,250,2006
+872,Cendre de néon,Marius Echo,Variété française,255,2012
+873,Boulevard de cendre,Aya Arcade,Variété française,231,1985
+874,Lumière nocturne,Yanis Nova,Variété française,248,2017
+875,Cendre 37,Duo Prismes,Variété française,169,2006
+876,Satellite lointaine,Lou Kairo,Variété française,183,2014
+877,Cendre de voyage,Malo Sorel,Variété française,260,2002
+878,Écho 84,Rose Arcade,Variété française,247,2015
+879,Pluie de velours,Orchestre Mistrals,Variété française,255,2009
+880,Aurore solaire,Nina Saphir,Variété française,191,2017
+881,Voyage nouvelle,Iris Néon,Variété française,191,2001
+882,Silence de nuit,Collectif Saphirs,Variété française,233,2026
+883,Minuit de aurore,Aya Arcade,Variété française,191,2014
+884,Asphalte électrique,Soline Echo,Variété française,226,1992
+885,Été de saison,Malo Sorel,Variété française,184,2014
+886,Aurore nouvelle,Yanis Nova,Variété française,184,1998
+887,Vertige 73,Quartet Prismes,Variété française,224,2019
+888,Carrousel 53,Malo Sorel,Variété française,220,2002
+889,Carrousel de minuit,Yanis Nova,Variété française,184,2025
+890,Silence 89,The Saphirs,Variété française,242,1980
+891,Asphalte brûlante,Soline Echo,Variété française,212,2018
+892,Été de été,Soline Echo,Variété française,255,2011
+893,Écho 97,Iris Néon,Variété française,197,2008
+894,Tempête 41,Iris Néon,Variété française,242,2025
+895,Distance électrique,Iris Néon,Variété française,254,1999
+896,Lumière 26,Collectif Saphirs,Variété française,254,2025
+897,Silence de miroir,Soline Echo,Variété française,217,2015
+898,Horizon de horizon,Yanis Nova,Variété française,182,2022
+899,Été perdue,Soline Echo,Variété française,223,2003
+900,Mirage 89,Marius Echo,Variété française,199,2021
+901,Horizon secrète,Aya Arcade,Variété française,214,2019
+902,Vertige solaire,Kenza Echo,Variété française,238,2007
+903,Aurore infinie,Zoé Rivière,Variété française,256,2026
+904,Velours 29,Soline Echo,Variété française,243,2022
+905,Silence lointaine,Nina Saphir,Variété française,238,2024
+906,Nuit 72,Zoé Rivière,Variété française,201,1985
+907,Miroir solaire,Orchestre Mistrals,Variété française,172,2020
+908,Nuit perdue,Iris Lys,Variété française,203,2018
+909,Nuit de métro,Orchestre Mistrals,Variété française,185,2012
+910,Écho de carrousel,Soline Echo,Variété française,173,1998
+911,Nuit de écho,Collectif Saphirs,Variété française,168,2006
+912,Aurore 40,Nina Saphir,Variété française,231,2025
+913,Miroir immobile,Malo Sorel,Variété française,241,2003
+914,Boulevard de néon,Marius Echo,Variété française,176,1987
+915,Nuit 54,Collectif Saphirs,Variété française,169,1994
+916,Sirène de lumière,The Saphirs,Variété française,220,2012
+917,Sirène de été,Orchestre Mistrals,Variété française,246,1989
+918,Tempête de orage,Duo Prismes,Variété française,231,1981
+919,Sirène 46,Malo Sorel,Variété française,166,1992
+920,Distance 88,The Saphirs,Variété française,213,2018
+921,Comète de métro,Nina Saphir,Variété française,222,2025
+922,Carrousel de silence,Collectif Saphirs,Variété française,201,2026
+923,Silence de velours,Iris Néon,Variété française,239,1994
+924,Néon de sirène,Collectif Saphirs,Variété française,183,2017
+925,Marée 98,Quartet Prismes,Variété française,171,2022
+926,Nuit 26,Rose Arcade,Variété française,243,1983
+927,Été lointaine,Soline Echo,Variété française,230,2024
+928,Comète bleue,Lou Kairo,Variété française,234,2026
+929,Rivage de asphalte,Alma Ferro,Afro,207,2008
+930,Néon brûlante,Collectif Voltas,Afro,195,2026
+931,Aurore 41,Alma Ferro,Afro,187,2017
+932,Silence 57,Lou Saphir,Afro,198,2010
+933,Cendre de cendre,Timéo Arcade,Afro,189,1999
+934,Voyage 79,Les Voltas,Afro,214,2022
+935,Métro de minuit,Lou Lys,Afro,216,2014
+936,Carrousel secrète,Timéo Arcade,Afro,179,2007
+937,Pluie 11,Marius Mistral,Afro,223,2022
+938,Vertige lente,Lou Blanc,Afro,168,2019
+939,Vertige de tempête,Marius Mistral,Afro,211,2023
+940,Mirage de ivresse,Alma Ferro,Afro,170,2011
+941,Silence perdue,Les Voltas,Afro,200,2009
+942,Tempête 37,Lou Lys,Afro,227,1997
+943,Velours 83,Rayan Rivière,Afro,231,2024
+944,Velours de ivresse,Rayan Rivière,Afro,227,2022
+945,Distance 4,Lou Saphir,Afro,235,1993
+946,Pluie 65,Lou Saphir,Afro,196,1985
+947,Horizon 35,Kenza Nova,Afro,202,2011
+948,Écho de tempête,Les Voltas,Afro,167,2003
+949,Minuit de boulevard,Alma Ferro,Afro,188,2012
+950,Nuit nocturne,Les Voltas,Afro,226,2018
+951,Carrousel infinie,Collectif Voltas,Afro,236,2012
+952,Cendre de tempête,Timéo Arcade,Afro,215,2010
+953,Satellite de mirage,Collectif Voltas,Afro,193,2017
+954,Comète de rivage,Marius Mistral,Afro,214,2023
+955,Asphalte 52,Timéo Mistral,Afro,221,2020
+956,Pluie de silence,Lou Saphir,Afro,218,2022
+957,Aurore de comète,Timéo Mistral,Afro,212,2026
+958,Minuit lointaine,Timéo Arcade,Afro,215,2022
+959,Carrousel de écho,Marius Kairo,Afro,220,2006
+960,Carrousel 52,Marius Azur,Afro,168,2026
+961,Horizon 53,Les Voltas,Afro,232,2020
+962,Été de minuit,Lou Blanc,Afro,187,2022
+963,Mirage de voyage,Lou Saphir,Afro,238,2025
+964,Néon de pluie,Marius Azur,Afro,191,2025
+965,Aurore immobile,Kenza Nova,Afro,187,2013
+966,Satellite 33,Lou Saphir,Afro,233,1998
+967,Aurore de satellite,Les Voltas,Afro,193,2020
+968,Tempête de été,Lou Saphir,Afro,179,2023
+969,Orage de asphalte,Rayan Rivière,Afro,160,2005
+970,Sirène 19,Les Voltas,Afro,211,2009
+971,Saison 64,Les Voltas,Afro,209,1990
+972,Ivresse de vertige,Lou Saphir,Afro,160,2015
+973,Été 63,Lou Lys,Afro,170,2026
+974,Voyage immobile,Lou Blanc,Afro,186,1998
+975,Nuit 92,Timéo Arcade,Afro,166,2024
+976,Métro 77,Timéo Mistral,Afro,192,2019
+977,Saison de satellite,Lou Saphir,Afro,201,2013
+978,Orage nouvelle,Timéo Mistral,Afro,202,2023
+979,Aurore 38,Les Voltas,Afro,214,2026
+980,Silence de voyage,Timéo Mistral,Afro,239,2026
+981,Orage de ivresse,Lou Lys,Afro,196,2021
+982,Écho 49,Timéo Arcade,Afro,161,2009
+983,Sirène 16,Kenza Nova,Afro,230,2026
+984,Tempête de écho,Les Voltas,Afro,211,2021
+985,Cendre 13,Marius Azur,Afro,206,2026
+986,Vertige 39,Lou Lys,Afro,235,1999
+987,Ivresse de minuit,Lou Saphir,Afro,236,2021
+988,Comète 15,Alma Ferro,Afro,219,2026
+989,Miroir de écho,Rayan Rivière,Afro,172,1985
+990,Cendre 52,Les Voltas,Afro,190,2016
+991,Nuit 10,Lou Lys,Afro,167,1976
+992,Comète lente,Timéo Mistral,Afro,219,2006
+993,Mirage 36,Lou Lys,Afro,223,2008
+994,Voyage de miroir,Timéo Mistral,Afro,217,2020
+995,Ivresse 84,Lou Lys,Afro,170,2017
+996,Écho 2,Lou Saphir,Afro,187,2019
+997,Marée lente,Les Voltas,Afro,167,2013
+998,Saison lointaine,Lou Blanc,Afro,181,2018
+999,Orage brûlante,Marius Kairo,Afro,181,2007
+1000,Miroir 64,Lou Blanc,Afro,211,2015
+1001,Minuit 70,Sacha Echo,Latino,188,2025
+1002,Satellite 74,Yanis Mistral,Latino,218,2014
+1003,Miroir 66,Maé Corail,Latino,162,2026
+1004,Boulevard 47,Elio Sable,Latino,188,2023
+1005,Comète douce,Sacha Echo,Latino,162,2025
+1006,Métro de sirène,Yanis Mistral,Latino,231,2020
+1007,Satellite douce,Sacha Echo,Latino,232,2024
+1008,Satellite de ivresse,Maé Corail,Latino,206,2016
+1009,Ivresse rêveuse,Sacha Echo,Latino,223,2015
+1010,Asphalte douce,Kenza Saphir,Latino,194,2009
+1011,Rivage de velours,Sacha Prisme,Latino,200,2024
+1012,Silence parfaite,Maé Corail,Latino,211,2006
+1013,Néon nouvelle,Aya Kairo,Latino,195,2025
+1014,Silence de sirène,Kenza Saphir,Latino,199,2024
+1015,Pluie rêveuse,Aya Kairo,Latino,169,2023
+1016,Métro 9,Sacha Echo,Latino,181,2004
+1017,Satellite 15,Sacha Prisme,Latino,216,2025
+1018,Distance rêveuse,Sacha Prisme,Latino,231,2019
+1019,Néon 67,Sacha Prisme,Latino,178,2017
+1020,Pluie 64,Yanis Mistral,Latino,175,2023
+1021,Écho de silence,Elio Sable,Latino,197,1982
+1022,Cendre lente,Rose Saphir,Latino,212,2016
+1023,Nuit de horizon,Sacha Echo,Latino,184,2016
+1024,Tempête électrique,Aya Kairo,Latino,236,1998
+1025,Métro 69,Kenza Saphir,Latino,207,2024
+1026,Voyage 18,Kenza Saphir,Latino,163,2013
+1027,Marée douce,Rose Saphir,Latino,205,1981
+1028,Marée de satellite,Sacha Prisme,Latino,181,2007
+1029,Cendre 74,Elio Sable,Latino,206,2026
+1030,Silence 67,Elio Sable,Latino,236,2005
+1031,Comète nocturne,Aya Kairo,Latino,231,2016
+1032,Rivage lente,Sacha Prisme,Latino,170,1996
+1033,Pluie fragile,Yanis Mistral,Latino,237,1992
+1034,Boulevard de sirène,Maé Corail,Latino,200,2023
+1035,Pluie 97,Maé Corail,Latino,206,2021
+1036,Pluie 91,Kenza Saphir,Latino,238,2020
+1037,Aurore 62,Kenza Saphir,Latino,213,2026
+1038,Marée 70,Aya Kairo,Latino,172,2022
+1039,Pluie de satellite,Rose Saphir,Latino,236,2002
+1040,Cendre de écho,Sacha Prisme,Latino,165,2018
+1041,Velours 76,Rose Saphir,Latino,178,2021
+1042,Vertige 80,Sacha Prisme,Latino,182,2014
+1043,Métro rêveuse,Sacha Echo,Latino,236,2026
+1044,Voyage de nuit,Sacha Prisme,Latino,171,2026
+1045,Comète 67,Aya Kairo,Latino,179,2018
+1046,Aurore 45,Yanis Mistral,Latino,160,2010
+1047,Silence nouvelle,Rose Saphir,Latino,160,2020
+1048,Comète 42,Rose Saphir,Latino,199,2016
+1049,Nuit 30,Aya Kairo,Latino,237,2006
+1050,Voyage 44,Elio Sable,Latino,198,2016
+1051,Néon 84,Rose Saphir,Latino,194,2023
+1052,Écho 63,Kenza Saphir,Latino,239,2020
+1053,Velours 86,Yanis Mistral,Latino,178,2019
+1054,Velours de marée,Sacha Echo,Latino,234,2004
+1055,Rivage de silence,Kenza Saphir,Latino,224,2024
+1056,Horizon de silence,Sacha Echo,Latino,160,2007
+1057,Satellite 54,Maé Corail,Latino,181,2004
+1058,Marée rêveuse,Elio Sable,Latino,196,2022
+1059,Distance 74,Sacha Echo,Latino,228,2022
+1060,Silence secrète,Kenza Saphir,Latino,175,2001
+1061,Métro de mirage,Rose Volta,Jazz,211,2024
+1062,Aurore 88,Jade Orsay,Jazz,282,2022
+1063,Satellite 46,Ines Corail,Jazz,253,2011
+1064,Marée de marée,Ines Corail,Jazz,277,2000
+1065,Velours 68,Timéo Kairo,Jazz,328,2002
+1066,Miroir 65,Ines Corail,Jazz,317,2015
+1067,Distance 11,Rose Corail,Jazz,346,2012
+1068,Pluie 42,Marius Prisme,Jazz,224,2000
+1069,Distance bleue,Rayan Arcade,Jazz,306,2017
+1070,Rivage immobile,Orchestre Sables,Jazz,408,2009
+1071,Asphalte de satellite,Zoé Orsay,Jazz,252,2023
+1072,Miroir de carrousel,Marius Prisme,Jazz,319,2024
+1073,Boulevard 51,Oscar Volta,Jazz,392,2023
+1074,Satellite 80,Ines Corail,Jazz,241,1980
+1075,Comète nouvelle,Aya Prisme,Jazz,403,1994
+1076,Carrousel de nuit,Rose Corail,Jazz,293,2016
+1077,Rivage 20,Quartet Vegas,Jazz,214,2011
+1078,Asphalte solaire,Orchestre Sables,Jazz,385,2019
+1079,Écho infinie,Quartet Vegas,Jazz,255,2018
+1080,Lumière 3,Rose Corail,Jazz,292,2018
+1081,Comète 18,Rose Corail,Jazz,348,2008
+1082,Nuit de été,Rose Volta,Jazz,316,2002
+1083,Boulevard de distance,Quartet Vegas,Jazz,374,2014
+1084,Orage de voyage,Jade Orsay,Jazz,388,1996
+1085,Rivage de écho,Oscar Volta,Jazz,366,2023
+1086,Ivresse perdue,Zoé Orsay,Jazz,234,1995
+1087,Horizon de distance,Rose Volta,Jazz,250,2014
+1088,Été 27,Orchestre Sables,Jazz,410,2012
+1089,Velours de distance,Orchestre Sables,Jazz,241,2004
+1090,Mirage douce,Soline Lys,Jazz,412,2010
+1091,Asphalte de aurore,Rose Corail,Jazz,293,2021
+1092,Lumière 28,Orchestre Sables,Jazz,256,2015
+1093,Minuit de tempête,Orchestre Sables,Jazz,276,2011
+1094,Lumière solaire,Ines Corail,Jazz,267,2024
+1095,Pluie 67,Jade Orsay,Jazz,292,2015
+1096,Asphalte 9,Ines Corail,Jazz,337,1974
+1097,Mirage solaire,Timéo Kairo,Jazz,331,2016
+1098,Miroir lente,Marius Prisme,Jazz,399,2025
+1099,Voyage de tempête,Quartet Vegas,Jazz,308,2016
+1100,Silence de tempête,Orchestre Sables,Jazz,250,1985
+1101,Métro 45,Jade Orsay,Jazz,242,2022
+1102,Minuit 83,Marius Prisme,Jazz,292,2019
+1103,Métro 8,Noé Blanc,Classique,280,1998
+1104,Métro lointaine,Iris Echo,Classique,710,2019
+1105,Distance de saison,Timéo Corail,Classique,710,2021
+1106,Miroir dorée,Iris Echo,Classique,706,2024
+1107,Rivage fragile,Orchestre Rivières,Classique,314,2014
+1108,Été de métro,Rose Onyx,Classique,579,2025
+1109,Horizon 3,Orchestre Rivières,Classique,434,2016
+1110,Nuit 25,Nael Rivière,Classique,454,2022
+1111,Velours de asphalte,Noé Blanc,Classique,274,2024
+1112,Satellite de écho,Noé Blanc,Classique,385,2026
+1113,Boulevard de boulevard,Timéo Corail,Classique,403,2023
+1114,Sirène nouvelle,Timéo Corail,Classique,698,2025
+1115,Saison de carrousel,Iris Echo,Classique,660,2002
+1116,Ivresse électrique,Rose Onyx,Classique,483,2008
+1117,Miroir nocturne,Noé Blanc,Classique,452,2017
+1118,Vertige immobile,Rose Onyx,Classique,664,2022
+1119,Été de asphalte,Timéo Corail,Classique,318,2012
+1120,Comète de nuit,Orchestre Rivières,Classique,632,2023
+1121,Écho lente,Noé Blanc,Classique,570,1995
+1122,Voyage de rivage,Rose Onyx,Classique,455,2020
+1123,Minuit 44,Noé Blanc,Classique,434,2002
+1124,Aurore 79,Nael Rivière,Classique,297,2016
+1125,Sirène 53,Noé Blanc,Classique,620,2026
+1126,Sirène de aurore,Noé Blanc,Classique,445,2006
+1127,Écho de saison,Orchestre Rivières,Classique,618,2018
+1128,Écho 87,Orchestre Rivières,Classique,616,2026
+1129,Saison de été,Noé Blanc,Classique,699,2021
+1130,Horizon 15,Orchestre Rivières,Classique,712,1965
+1131,Voyage 52,Orchestre Voltas,Classique,371,2011
+1132,Horizon 42,Orchestre Voltas,Classique,457,2025
+1133,Minuit 65,Iris Echo,Classique,255,1982
+1134,Velours de orage,Orchestre Voltas,Classique,655,2000
+1135,Orage de aurore,Nael Rivière,Classique,590,2024
+1136,Sirène de asphalte,Timéo Corail,Classique,365,2025
+1137,Mirage 34,Orchestre Rivières,Classique,592,2008
+1138,Marée de velours,Nael Rivière,Classique,676,1971
+1139,Métro de boulevard,Rose Onyx,Classique,472,1976
+1140,Vertige 2,Nael Rivière,Classique,380,2022
+1141,Distance de lumière,Nael Rivière,Classique,468,2013
+1142,Silence de aurore,Iris Echo,Classique,429,1994
+1143,Nuit 96,Rayan Nova,Metal,326,2006
+1144,Métro de satellite,Ines Arcade,Metal,332,2008
+1145,Boulevard 85,Ines Arcade,Metal,211,2026
+1146,Ivresse nocturne,Oscar Vega,Metal,355,2024
+1147,Miroir 81,Timéo Volta,Metal,373,2018
+1148,Lumière de asphalte,Rayan Nova,Metal,236,2021
+1149,Lumière de sirène,Ines Arcade,Metal,212,2025
+1150,Comète secrète,Oscar Vega,Metal,296,2017
+1151,Satellite de cendre,Ines Arcade,Metal,220,2015
+1152,Cendre solaire,Oscar Vega,Metal,296,2005
+1153,Marée de asphalte,Rayan Nova,Metal,239,1995
+1154,Écho électrique,Timéo Volta,Metal,359,1987
+1155,Saison nouvelle,Oscar Vega,Metal,281,2018
+1156,Minuit de mirage,Rayan Volta,Metal,303,2022
+1157,Cendre rêveuse,Rayan Volta,Metal,334,2017
+1158,Écho nouvelle,Rayan Volta,Metal,254,2020
+1159,Tempête 43,Oscar Vega,Metal,372,2024
+1160,Comète 28,Rayan Volta,Metal,222,2021
+1161,Orage 96,Timéo Volta,Metal,255,2025
+1162,Comète 58,Rayan Nova,Metal,285,2018
+1163,Minuit de velours,Rayan Volta,Metal,219,2017
+1164,Écho parfaite,Les Onyxs,Metal,210,1995
+1165,Métro de pluie,Timéo Volta,Metal,293,2022
+1166,Cendre 19,Timéo Volta,Metal,357,2026
+1167,Vertige de boulevard,Rayan Nova,Metal,265,2002
+1168,Velours 30,Timéo Volta,Metal,287,2003
+1169,Vertige 74,Ines Arcade,Metal,266,2015
+1170,Marée 15,Ines Arcade,Metal,297,2024
+1171,Distance dorée,Oscar Vega,Metal,337,2025
+1172,Tempête 29,Timéo Volta,Metal,246,2024
+1173,Pluie 8,Oscar Vega,Metal,370,1985
+1174,Lumière dorée,Rayan Volta,Metal,350,2015
+1175,Aurore 56,Timéo Volta,Metal,241,2004
+1176,Comète 53,Rayan Nova,Metal,339,2025
+1177,Distance de distance,Oscar Vega,Metal,224,2017
+1178,Aurore 55,Les Onyxs,Metal,229,2000
+1179,Été de carrousel,Timéo Volta,Metal,337,2024
+1180,Saison de pluie,Rayan Nova,Metal,369,2017
+1181,Distance 41,Rayan Volta,Metal,301,2023
+1182,Lumière 83,Rayan Nova,Metal,269,2022
+1183,Asphalte de mirage,Jade Arcade,Lo-fi,113,1970
+1184,Écho 10,Jade Arcade,Lo-fi,122,2018
+1185,Comète de mirage,Jade Arcade,Lo-fi,111,2010
+1186,Silence de silence,Zoé Kairo,Lo-fi,118,2001
+1187,Saison de comète,Yanis Onyx,Lo-fi,135,2005
+1188,Aurore 64,Yanis Onyx,Lo-fi,167,2023
+1189,Satellite 85,Iris Nova,Lo-fi,119,2025
+1190,Écho de lumière,Iris Nova,Lo-fi,130,2025
+1191,Asphalte 53,Lina Prisme,Lo-fi,159,2023
+1192,Vertige de mirage,Jade Arcade,Lo-fi,166,2020
+1193,Orage lente,Lina Prisme,Lo-fi,148,1981
+1194,Rivage bleue,Iris Nova,Lo-fi,170,2017
+1195,Boulevard 39,Yanis Onyx,Lo-fi,188,2014
+1196,Rivage 56,Lina Prisme,Lo-fi,110,2021
+1197,Saison lente,Jade Arcade,Lo-fi,156,2016
+1198,Orage 25,Iris Nova,Lo-fi,178,1998
+1199,Voyage 35,Zoé Kairo,Lo-fi,143,2019
+1200,Miroir 84,Zoé Kairo,Lo-fi,174,1990
+1201,Carrousel 31,Jade Arcade,Lo-fi,112,2002
+1202,Boulevard rêveuse,Lina Prisme,Lo-fi,143,2008
+1203,Sirène infinie,Soline Mistral,Lo-fi,157,2026
+1204,Orage 32,Soline Mistral,Lo-fi,169,1983
+1205,Velours immobile,Iris Nova,Lo-fi,190,2026
+1206,Aurore de boulevard,Iris Nova,Lo-fi,150,2024
+1207,Néon sauvage,Jade Arcade,Lo-fi,121,2025
+1208,Néon 54,Iris Nova,Lo-fi,155,2022
+1209,Comète 32,Jade Arcade,Lo-fi,129,2016
+1210,Comète de boulevard,Iris Nova,Lo-fi,123,2023
+1211,Ivresse lente,Soline Mistral,Lo-fi,183,2026
+1212,Voyage 9,Jade Arcade,Lo-fi,150,2023
+1213,Néon de asphalte,Zoé Kairo,Lo-fi,168,1980
+1214,Comète 39,Iris Nova,Lo-fi,124,2014
+1215,Ivresse de ivresse,Iris Nova,Lo-fi,162,2025
+1216,Vertige de nuit,Lina Prisme,Lo-fi,176,2010
+1217,Horizon de rivage,Jade Arcade,Lo-fi,115,1986
+1218,Velours 72,Jade Arcade,Lo-fi,121,2018
+1219,Aurore 51,Soline Mistral,Lo-fi,172,1966
+1220,Aurore sauvage,Yanis Onyx,Lo-fi,152,2015
+1221,Voyage 89,Yanis Onyx,Lo-fi,143,2006
+1222,Rivage parfaite,Iris Nova,Lo-fi,175,2019

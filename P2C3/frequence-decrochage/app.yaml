@@ -1,0 +1,9 @@
+command: ["streamlit", "run", "app.py"]
+
+env:
+  # Identifiant du SQL Warehouse, injecté depuis la ressource « sql-warehouse »
+  # déclarée lors de la création de l'application (aucune valeur en dur).
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    valueFrom: "sql-warehouse"
+  - name: "STREAMLIT_GATHER_USAGE_STATS"
+    value: "false"
